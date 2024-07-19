@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17ad57361ce24b45ab175b2bcd1dcf4f, type: 3}
+  m_Name: Quick Attack
+  m_EditorClassIdentifier: 
+  skillName: Quick Attack
+  type: 1
+  mode: 1
+  actionType: 0
+  source: {fileID: 0}
+  target: {fileID: 0}
+  cost: 1.5
+  damage: 1
+  damageFactor:
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  - 0
+  preparationTime: -5
+  appliedBuff: []
